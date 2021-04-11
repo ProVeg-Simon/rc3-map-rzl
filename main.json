@@ -72,7 +72,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"stream:rc3lounge"
+                 "value":"http:\/\/playground.proveg.com:8000\/stream"
                 }],
          "type":"tilelayer",
          "visible":true,
