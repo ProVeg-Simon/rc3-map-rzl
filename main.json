@@ -36,7 +36,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/playground.proveg.com:8000\/stream.mp3"
+                 "value":"tschunkeln.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
