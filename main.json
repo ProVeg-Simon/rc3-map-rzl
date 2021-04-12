@@ -36,7 +36,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/playground.proveg.com:8000\/stream"
+                 "value":"https:\/\/orthkb.work\/?page_id=135"
                 }],
          "type":"tilelayer",
          "visible":true,
