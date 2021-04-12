@@ -34,9 +34,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudio",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"tschunkeln.mp3"
+                 "value":"http:\/\/playground.proveg.com:8000\/stream.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
