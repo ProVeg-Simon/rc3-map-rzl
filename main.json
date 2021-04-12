@@ -36,7 +36,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/playground.proveg.com:8000\/stream.mp3"
+                 "value":"http:\/\/playground.proveg.com:8000\/stream"
                 }],
          "type":"tilelayer",
          "visible":true,
